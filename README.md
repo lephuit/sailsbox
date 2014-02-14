@@ -1,0 +1,4 @@
+sailsbox
+========
+
+Sails.js sandbox
